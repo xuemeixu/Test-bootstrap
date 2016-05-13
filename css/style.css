@@ -1,0 +1,43 @@
+.carousel-inner{
+	height: 550px;
+	background-color: #000;
+	margin-bottom: 50px;
+    
+}
+.carousel-inner .item{
+	height: 550px;
+}
+.carousel-inner img{
+	height: 550px;
+	width: 100%;
+}
+.carousel-caption h3{
+	margin-bottom: 20px;
+	
+}
+p{
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+#text_summary .col-md-4{
+	text-align: center;
+
+}
+hr .divider{
+	margin: 40px 0px;
+}
+.tab-pane{
+	margin-top:30px;
+}
+h2{
+	color: #2483F0;
+	margin-top: 80px;
+	font-size: 45px;
+}
+ .text-muted{
+	font-size: 30px;
+	margin-left: 20px;
+} 
+a{
+	text-decoration: none;
+}
